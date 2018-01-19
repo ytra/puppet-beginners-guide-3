@@ -1,3 +1,3 @@
 #!/bin/bash
 vagrant plugin install vagrant-vbguest
-vagrant up
+vagrant up --provider virtualbox
